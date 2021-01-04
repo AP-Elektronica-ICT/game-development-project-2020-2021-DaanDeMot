@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Daan De Mot/Desktop/Game Dev - Project/MonoGame/MonoGame_DeMotDaan/MonoGame_DeMotDaan/Content/Player/attack_1_Right.png</File>
+    <File>C:/Users/Daan De Mot/Desktop/Game Dev - Project/MonoGame/MonoGame_DeMotDaan/MonoGame_DeMotDaan/Content/Player/idle.png</File>
+    <File>C:/Users/Daan De Mot/Desktop/Game Dev - Project/MonoGame/MonoGame_DeMotDaan/MonoGame_DeMotDaan/Content/Player/IdleLeft.png</File>
+    <File>C:/Users/Daan De Mot/Desktop/Game Dev - Project/MonoGame/MonoGame_DeMotDaan/MonoGame_DeMotDaan/Content/Player/jump.png</File>
+    <File>C:/Users/Daan De Mot/Desktop/Game Dev - Project/MonoGame/MonoGame_DeMotDaan/MonoGame_DeMotDaan/Content/Player/walkLeft.png</File>
+    <File>C:/Users/Daan De Mot/Desktop/Game Dev - Project/MonoGame/MonoGame_DeMotDaan/MonoGame_DeMotDaan/Content/Player/walkRight.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
