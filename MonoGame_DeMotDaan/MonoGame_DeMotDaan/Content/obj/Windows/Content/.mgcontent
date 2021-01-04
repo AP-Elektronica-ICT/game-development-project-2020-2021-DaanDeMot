@@ -4,12 +4,12 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/Daan De Mot/Desktop/Game Dev - Project/MonoGame/MonoGame_DeMotDaan/MonoGame_DeMotDaan/Content/Player/attack_1_Right.png</File>
-    <File>C:/Users/Daan De Mot/Desktop/Game Dev - Project/MonoGame/MonoGame_DeMotDaan/MonoGame_DeMotDaan/Content/Player/idle.png</File>
-    <File>C:/Users/Daan De Mot/Desktop/Game Dev - Project/MonoGame/MonoGame_DeMotDaan/MonoGame_DeMotDaan/Content/Player/IdleLeft.png</File>
-    <File>C:/Users/Daan De Mot/Desktop/Game Dev - Project/MonoGame/MonoGame_DeMotDaan/MonoGame_DeMotDaan/Content/Player/jump.png</File>
-    <File>C:/Users/Daan De Mot/Desktop/Game Dev - Project/MonoGame/MonoGame_DeMotDaan/MonoGame_DeMotDaan/Content/Player/walkLeft.png</File>
-    <File>C:/Users/Daan De Mot/Desktop/Game Dev - Project/MonoGame/MonoGame_DeMotDaan/MonoGame_DeMotDaan/Content/Player/walkRight.png</File>
+    <File>C:/Users/Daan De Mot/Desktop/Game Dev - Project/MonoGame/game-development-project-2020-2021-DaanDeMot/MonoGame_DeMotDaan/MonoGame_DeMotDaan/Content/Player/attack_1_Right.png</File>
+    <File>C:/Users/Daan De Mot/Desktop/Game Dev - Project/MonoGame/game-development-project-2020-2021-DaanDeMot/MonoGame_DeMotDaan/MonoGame_DeMotDaan/Content/Player/idle.png</File>
+    <File>C:/Users/Daan De Mot/Desktop/Game Dev - Project/MonoGame/game-development-project-2020-2021-DaanDeMot/MonoGame_DeMotDaan/MonoGame_DeMotDaan/Content/Player/IdleLeft.png</File>
+    <File>C:/Users/Daan De Mot/Desktop/Game Dev - Project/MonoGame/game-development-project-2020-2021-DaanDeMot/MonoGame_DeMotDaan/MonoGame_DeMotDaan/Content/Player/jump.png</File>
+    <File>C:/Users/Daan De Mot/Desktop/Game Dev - Project/MonoGame/game-development-project-2020-2021-DaanDeMot/MonoGame_DeMotDaan/MonoGame_DeMotDaan/Content/Player/walkLeft.png</File>
+    <File>C:/Users/Daan De Mot/Desktop/Game Dev - Project/MonoGame/game-development-project-2020-2021-DaanDeMot/MonoGame_DeMotDaan/MonoGame_DeMotDaan/Content/Player/walkRight.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />
